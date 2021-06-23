@@ -1,0 +1,17 @@
+						------------SEARCH HISTORY...----------------
+Weather Stats for: punjab Date-Time: 23 Jun 2021 | 07:59:18 PMWeather: clear sky
+temperature: 108degreeF or 42degreeC
+Feels like: 35degreeC
+
+Weather Stats for: chandigarh Date-Time: 23 Jun 2021 | 07:59:24 PMWeather: clear sky
+temperature: 98degreeF or 36degreeC
+Feels like: 35degreeC
+
+Weather Stats for: delhi Date-Time: 23 Jun 2021 | 07:59:28 PMWeather: haze
+temperature: 100degreeF or 37degreeC
+Feels like: 35degreeC
+
+Weather Stats for: kullu Date-Time: 23 Jun 2021 | 07:59:31 PMWeather: broken clouds
+temperature: 78degreeF or 25degreeC
+Feels like: 35degreeC
+
